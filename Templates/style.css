@@ -1,0 +1,21 @@
+.block-a{
+    background:white;
+    width: 800px;
+}
+
+.text{
+    width: 15px;
+    vertical-align: top;
+    margin: 5px;
+    line-height: 33px;
+
+}
+.text1{
+    color: #5e6973;
+    font-size: 13px;
+    font-weight: 500;
+    vertical-align: top;
+    margin: 7px;
+    line-height: 33px;
+    font-family: Fira Sans,sans-serif;
+}
